@@ -1,2 +1,4 @@
-# Devops_Course_Ex_1
-Atividade dois do curso de Devops Básico do Instituto Atlântico
+# Devops_Basic_Course
+### Prof. Denilson Bonatti
+
+Atividades dois(no diretório activity_two) e três(no diretório activity_three) do curso promovido pelo Instituto Atlântico e Avanti.
